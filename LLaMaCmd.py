@@ -55,7 +55,6 @@ while True:
         print(f"⚠️ Error fetching command: {e}")
         continue
 
-    # Space output
     print()
 
     # Show result or unsure message
