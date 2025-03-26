@@ -9,6 +9,7 @@ A command-line helper powered by ollama. Describe the command you need and it su
 
 ## Requirements
 -python 3.x
+-16gb RAM for default LLaMa3(8b) model 
 -Ollama
 -ollama python library 
 - any ollama model
